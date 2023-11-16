@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 👋 Hello! I'm Ahmed, a passionate front-end developer based in Egypt.
@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Saad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-saad-abouzaid-550847202/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Saad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Ahmed_saad39" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Saad-6aa4da?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="mailto:ahmedsaad01148@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Saad-cc4627?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
